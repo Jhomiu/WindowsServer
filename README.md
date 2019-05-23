@@ -32,7 +32,7 @@ Dentro de estas zonas añadimos los usuarios y los equipos
 
 ![alt text](https://github.com/Jhomiu/WindowsServer/blob/master/captura8.JPG)
 ![alt text](https://github.com/Jhomiu/WindowsServer/blob/master/captura9.JPG)
-![alt text](https://github.com/Jhomiu/WindowsServer/blob/master/captura10.JPG
+![alt text](https://github.com/Jhomiu/WindowsServer/blob/master/captura10.JPG)
 ![alt text](https://github.com/Jhomiu/WindowsServer/blob/master/captura12.JPG)
 ![alt text](https://github.com/Jhomiu/WindowsServer/blob/master/captura13.JPG)
 ![alt text](https://github.com/Jhomiu/WindowsServer/blob/master/captura14.JPG)
