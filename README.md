@@ -9,7 +9,7 @@ Seleccionamos los roles de l servidor.En este caso seleccionamos lo servicios de
 
 En caracteristicas elegimos las opciones tickeadas
 
-![alt text](https://github.com/Jhomiu/WindowsServer/blobmaster/captura3.JPG)
+![alt text](https://github.com/Jhomiu/WindowsServer/blob/master/captura3.JPG)
 
 Se instala todo
 
